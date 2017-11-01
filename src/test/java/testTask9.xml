@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestTask9">
+  <test name="TestTask9">
+    <parameter name="url" value="https://auth-demo.aerobatic.io/"/>
+    <parameter name="domain" value="aerobatic.io"/>
+    <parameter name="username" value="aerobatic"/>
+    <parameter name="password" value="aerobatic"/>
+    <classes>
+      <class name="TestTask9"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
