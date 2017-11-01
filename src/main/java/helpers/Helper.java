@@ -2,7 +2,6 @@ package helpers;
 
 import pages.AerobaticAuthPage;
 import org.openqa.selenium.WebDriver;
-
 import java.util.concurrent.TimeUnit;
 
 public class Helper {
